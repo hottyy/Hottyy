@@ -31,11 +31,12 @@ Whether it's creating seamless front-end experiences or structuring robust back-
 
 > I aim to showcase work that mirrors what I’d build in a real job setting—functional, user-centered, and clean.
 
-- Real-world booking system for an optometry practice
-- Photo portfolio with client dashboard functionality
-- Social media app clone (React + MongoDB) with likes, comments, and user tracking
+- **Cinemax** — A movie discovery web app built with **React** and **Tailwind CSS**, using the **TMDB API** to showcase the latest popular films in an elegant and responsive UI.
+- **Fake-Insta** — A social media prototype originally built with **Bootstrap** and a public API, now being rebuilt using the **MERN stack** to add real-time functionality like posting, liking, and commenting.
+- **Views Travel** — A responsive travel agency website built with **HTML, CSS, and JavaScript** to practice fundamentals, animation, layout design, and DOM manipulation.
 
-📁 See pinned repositories below or explore the [`Projects`](#) tab for case studies.
+📁 See pinned repositories below or explore the [`Projects`](#) tab for full code and case studies.
+
 
 ---
 
